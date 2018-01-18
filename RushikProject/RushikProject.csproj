@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0D87CE97-2BF9-40B8-B398-B8E2CCB55805}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RushikProject</RootNamespace>
+    <AssemblyName>RushikProject</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>RushikProject.ExaConsOver_J20_34</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Amstrong_J9_18.cs" />
+    <Compile Include="Arith_J1_3.cs" />
+    <Compile Include="CityNames_23.cs" />
+    <Compile Include="ExaArray_19.cs" />
+    <Compile Include="ExaClass_J19_33.cs" />
+    <Compile Include="ExaConsOver_J20_34.cs" />
+    <Compile Include="ExaForEach_J10_20.cs" />
+    <Compile Include="Branching.cs" />
+    <Compile Include="CallByRef_J15_29.cs" />
+    <Compile Include="CallByVal_J14_28.cs" />
+    <Compile Include="ExaParams_J18_32.cs" />
+    <Compile Include="FindFactor_J17_31.cs" />
+    <Compile Include="ForEach.cs" />
+    <Compile Include="SortedCities_J11_23.cs" />
+    <Compile Include="Second_2.cs" />
+    <Compile Include="Greatest_J4_9.cs" />
+    <Compile Include="Greater_8.cs" />
+    <Compile Include="EJaggedArray_J16_30.cs" />
+    <Compile Include="Marksheet_24.cs" />
+    <Compile Include="Month_13.cs" />
+    <Compile Include="Prime_15.cs" />
+    <Compile Include="OddEven_J3_5.cs" />
+    <Compile Include="Palindrome_17.cs" />
+    <Compile Include="ExaStatic_J21_35.cs" />
+    <Compile Include="Pow.cs" />
+    <Compile Include="PrimeFlag_J7_14.cs" />
+    <Compile Include="Primerange_J8_8.cs" />
+    <Compile Include="StatClass_J22_36.cs" />
+    <Compile Include="FamilyBal_J23_37.cs" />
+    <Compile Include="ArrayInfo_J12_25.cs" />
+    <Compile Include="Prog34.cs" />
+    <Compile Include="Prog35.cs" />
+    <Compile Include="Prog36.cs" />
+    <Compile Include="Prog37.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reverse_J6_11.cs" />
+    <Compile Include="Sign_6.cs" />
+    <Compile Include="SelSort_21.cs" />
+    <Compile Include="Square_7.cs" />
+    <Compile Include="DigiSum_J5_10.cs" />
+    <Compile Include="Udfcheckprime_26.cs" />
+    <Compile Include="Checkprimewr_J13_27.cs" />
+    <Compile Include="WelcomeAge_12.cs" />
+    <Compile Include="First_1.cs" />
+    <Compile Include="Welcome_J2_4.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,9 @@
+C:\Documents and Settings\bca16_009\My Documents\Visual Studio 2008\Projects\RushikProject\RushikProject\bin\Debug\RushikProject.exe
+C:\Documents and Settings\bca16_009\My Documents\Visual Studio 2008\Projects\RushikProject\RushikProject\bin\Debug\RushikProject.pdb
+C:\Documents and Settings\bca16_009\My Documents\Visual Studio 2008\Projects\RushikProject\RushikProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bca16_009\My Documents\Visual Studio 2008\Projects\RushikProject\RushikProject\obj\Debug\RushikProject.exe
+C:\Documents and Settings\bca16_009\My Documents\Visual Studio 2008\Projects\RushikProject\RushikProject\obj\Debug\RushikProject.pdb
+D:\Bca\sem4\C#\RushikProject\obj\Debug\RushikProject.exe
+D:\Bca\sem4\C#\RushikProject\obj\Debug\RushikProject.pdb
+D:\Bca\sem4\C#\RushikProject\bin\Debug\RushikProject.exe
+D:\Bca\sem4\C#\RushikProject\bin\Debug\RushikProject.pdb

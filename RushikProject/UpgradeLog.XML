@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RushikProject">
+</Property><Property Name="Solution File" Value="D:\Bca\sem4\C#\RushikProject\RushikProject.sln">
+</Property><Property Name="Date" Value="Thu 11 January 2018">
+</Property><Property Name="Time" Value="22:21:40">
+</Property></Properties><Event ErrorLevel="0" Project="RushikProject" Source="RushikProject.csproj" Description="Project file successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\RushikProject.csproj">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Amstrong_9.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Amstrong_9.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Arith_3.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Arith_3.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="ExaForEach_20.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\ExaForEach_20.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Branching.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Branching.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="CallByRef_15.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\CallByRef_15.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="CallByVal_14.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\CallByVal_14.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Factor.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Factor.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="ForEach.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\ForEach.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="SortedCities_23.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\SortedCities_23.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="GetPrintInt_2.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\GetPrintInt_2.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Greatest_9.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Greatest_9.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Greater.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Greater.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="JaggedArray.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\JaggedArray.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Marksheet.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Marksheet.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Month.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Month.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Prime.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Prime.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="OddEven.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\OddEven.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Palindrome.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Palindrome.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Person1.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Person1.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Pow.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Pow.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="PrimeFlag_14.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\PrimeFlag_14.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Primerange_8.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Primerange_8.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Prog28.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Prog28.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Prog29.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Prog29.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="ArrayInfo_12.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\ArrayInfo_12.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Prog34.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Prog34.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Prog35.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Prog35.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Prog36.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Prog36.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Prog37.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Prog37.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Reverse_11.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Reverse_11.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Sign.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Sign.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Sort.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Sort.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Square.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Square.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="DigiSum_10.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\DigiSum_10.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="UdfPrime1.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\UdfPrime1.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Checkprimewr_13.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Checkprimewr_13.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="WelcomeAge.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\WelcomeAge.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Welcome_1.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Welcome_1.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="Welcome_4.cs" Description="File successfully backed up as D:\Bca\sem4\C#\RushikProject\Backup\Welcome_4.cs">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="RushikProject.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RushikProject" Source="RushikProject.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RushikProject" Source="RushikProject.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
