@@ -9,6 +9,7 @@ namespace RushikProject
     {
         static void Main(string[] args)
         {
+            //comment
             Console.Write(" \n\n");
 
             int[] arr = new int[10];
