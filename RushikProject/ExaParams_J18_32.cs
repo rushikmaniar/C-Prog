@@ -10,7 +10,7 @@ namespace RushikProject
         public static void Main(string[] args)
         {
             int min, max;
-            get_min_max(out min, out max, 5, 4, 8, 9);
+            get_min_max(out min, out max, 5, 4, 3, 9);
             Console.WriteLine("Min :" + min + "\nMax : " + max);
 
         }

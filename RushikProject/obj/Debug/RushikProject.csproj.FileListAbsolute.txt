@@ -12,5 +12,4 @@ D:\Bca\sem4\CSharp-Prog\RushikProject\obj\Debug\RushikProject.pdb
 D:\Bca\sem4\CSharp-Prog\RushikProject\bin\Debug\RushikProject.exe
 D:\Bca\sem4\CSharp-Prog\RushikProject\bin\Debug\RushikProject.pdb
 D:\Bca\sem4\CSharp-Prog\RushikProject\obj\Debug\RushikProject.csproj.CoreCompileInputs.cache
-D:\Bca\sem4\CSharp-Prog\RushikProject\bin\Debug\RushikProject.exe.CodeAnalysisLog.xml
-D:\Bca\sem4\CSharp-Prog\RushikProject\bin\Debug\RushikProject.exe.lastcodeanalysissucceeded
+D:\Bca\sem4\CSharp-Prog\RushikProject\obj\Debug\RushikProject.csprojResolveAssemblyReference.cache
